@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", serif;
+}
+#banner{
+    height: 100vh;
+    width: 100%;
+    background-image: url(./image/back.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#left{
+    height: 500px;
+    width: 600px;
+}
+li{
+    list-style-type: none;
+}
+#icon{
+    width: 25px;
+}
